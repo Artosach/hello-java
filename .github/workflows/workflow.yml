@@ -1,5 +1,5 @@
-# example workflow for Polaris scans using the Synopsys Action
-# https://github.com/marketplace/actions/synopsys-action
+# example workflow for Polaris scans using the BlackDuck Action
+# https://github.com/marketplace/actions/BlackDuck-action
 name: polaris
 on:
   push:
